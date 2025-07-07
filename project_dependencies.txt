@@ -1,0 +1,6 @@
+Library                        Version
+---------------------------------------------
+nltk                           3.8.1
+numpy                          1.23.5
+tensorflow                     2.15.0.post1
+tensorflow_datasets            3.2.1

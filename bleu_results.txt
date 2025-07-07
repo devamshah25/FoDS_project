@@ -1,0 +1,170 @@
+
+=== Checkpoint 6 ===
+
+Sample 1:
+EN: My hands are dirty. I have been repairing my bicycle.
+HI (ref): मेरे हाथ गंदे हैं। मैं अपनी साईकल ठीक कर रहा था।
+HI (pred): मैं अपनी मरम्मत के साथ पहुंचा हूं।
+BLEU: 0.0394
+
+Sample 2:
+EN: English is spoken in America.
+HI (ref): अमेरिका में अंग्रेजी बोली जाती है।
+HI (pred): अंग्रेजी में बिहार में भारत के लिए है।
+BLEU: 0.0366
+
+Sample 3:
+EN: She reproached me for being lazy.
+HI (ref): उसने मुझपर आलसी होने के लिए गुस्सा किया।
+HI (pred): मैं उन्हें एक माता के लिए जाता हूं।
+BLEU: 0.0587
+
+Sample 4:
+EN: I don't want there to be any misunderstanding.
+HI (ref): मैं नहीं चाहता कि कोई भी ग़लतफ़ैमी हो।
+HI (pred): मैं नहीं कह सकता कि किसी को काम करना चाहता हूं।
+BLEU: 0.0474
+
+Sample 5:
+EN: Are you sick?
+HI (ref): क्या तुम बीमार हो?
+HI (pred): तुम क्या है?
+BLEU: 0.0968
+
+Average BLEU Score: 0.0379
+
+=== Checkpoint 7 ===
+
+Sample 1:
+EN: My hands are dirty. I have been repairing my bicycle.
+HI (ref): मेरे हाथ गंदे हैं। मैं अपनी साईकल ठीक कर रहा था।
+HI (pred): मैं अपने साथ काम कर रहा हूं।
+BLEU: 0.0437
+
+Sample 2:
+EN: English is spoken in America.
+HI (ref): अमेरिका में अंग्रेजी बोली जाती है।
+HI (pred): अंग्रेजी में बिहार में बिहार हैं।
+BLEU: 0.0485
+
+Sample 3:
+EN: She reproached me for being lazy.
+HI (ref): उसने मुझपर आलसी होने के लिए गुस्सा किया।
+HI (pred): मैं उन्हें एक बार फिर से जुड़ा हुआ हूं।
+BLEU: 0.0000
+
+Sample 4:
+EN: I don't want there to be any misunderstanding.
+HI (ref): मैं नहीं चाहता कि कोई भी ग़लतफ़ैमी हो।
+HI (pred): मैं समझता हूं कि कोई बात नहीं है। 
+BLEU: 0.0699
+
+Sample 5:
+EN: Are you sick?
+HI (ref): क्या तुम बीमार हो?
+HI (pred): क्या आप बीमार हैं?
+BLEU: 0.0955
+
+Average BLEU Score: 0.0409
+
+=== Checkpoint 8 ===
+
+Sample 1:
+EN: My hands are dirty. I have been repairing my bicycle.
+HI (ref): मेरे हाथ गंदे हैं। मैं अपनी साईकल ठीक कर रहा था।
+HI (pred): मैं अपनी मात्रा में काम करता हूं और उसकी मेरी मदद में है।
+BLEU: 0.0329
+
+Sample 2:
+EN: English is spoken in America.
+HI (ref): अमेरिका में अंग्रेजी बोली जाती है।
+HI (pred): अंग्रेजी में बोली जाती है।
+BLEU: 0.2474
+
+Sample 3:
+EN: She reproached me for being lazy.
+HI (ref): उसने मुझपर आलसी होने के लिए गुस्सा किया।
+HI (pred): मैं उन्हें एक माता-पिता देता हूं।
+BLEU: 0.0000
+
+Sample 4:
+EN: I don't want there to be any misunderstanding.
+HI (ref): मैं नहीं चाहता कि कोई भी ग़लतफ़ैमी हो।
+HI (pred): मैं समझता हूं कि कोई बात नहीं है।
+BLEU: 0.0699
+
+Sample 5:
+EN: Are you sick?
+HI (ref): क्या तुम बीमार हो?
+HI (pred): तुम क्या है?
+BLEU: 0.0968
+
+Average BLEU Score: 0.0600
+
+=== Checkpoint 9 ===
+
+Sample 1:
+EN: My hands are dirty. I have been repairing my bicycle.
+HI (ref): मेरे हाथ गंदे हैं। मैं अपनी साईकल ठीक कर रहा था।
+HI (pred): मेरी मेरी सामान्यता को मेरी बात है।
+BLEU: 0.0000
+
+Sample 2:
+EN: English is spoken in America.
+HI (ref): अमेरिका में अंग्रेजी बोली जाती है।
+HI (pred): अंग्रेजी में बोली जाती है।
+BLEU: 0.2474
+
+Sample 3:
+EN: She reproached me for being lazy.
+HI (ref): उसने मुझपर आलसी होने के लिए गुस्सा किया।
+HI (pred): उन्होंने कहा कि मैं एक बहुत से प्राप्त हूं।
+BLEU: 0.0000
+
+Sample 4:
+EN: I don't want there to be any misunderstanding.
+HI (ref): मैं नहीं चाहता कि कोई भी ग़लतफ़ैमी हो।
+HI (pred): मैं नहीं जानता कि कोई बात नहीं है।
+BLEU: 0.0831
+
+Sample 5:
+EN: Are you sick?
+HI (ref): क्या तुम बीमार हो?
+HI (pred): क्या आप बीमार हैं?
+BLEU: 0.0955
+
+Average BLEU Score: 0.0527
+
+=== Checkpoint 10 ===
+
+Sample 1:
+EN: My hands are dirty. I have been repairing my bicycle.
+HI (ref): मेरे हाथ गंदे हैं। मैं अपनी साईकल ठीक कर रहा था।
+HI (pred): मेरी मेरी सामान्य कार्यवाही है।
+BLEU: 0.0000
+
+Sample 2:
+EN: English is spoken in America.
+HI (ref): अमेरिका में अंग्रेजी बोली जाती है।
+HI (pred): अंग्रेजी में बोर्ड में भी बोली जाती है।
+BLEU: 0.1562
+
+Sample 3:
+EN: She reproached me for being lazy.
+HI (ref): उसने मुझपर आलसी होने के लिए गुस्सा किया।
+HI (pred): मैं उन्हें एक मातृभूमि देता हूं।
+BLEU: 0.0000
+
+Sample 4:
+EN: I don't want there to be any misunderstanding.
+HI (ref): मैं नहीं चाहता कि कोई भी ग़लतफ़ैमी हो।
+HI (pred): मैं नहीं चाहता कि कुछ क्या हो सकता है।
+BLEU: 0.2985
+
+Sample 5:
+EN: Are you sick?
+HI (ref): क्या तुम बीमार हो?
+HI (pred): क्या आप बीमार हैं?
+BLEU: 0.0955
+
+Average BLEU Score: 0.0682

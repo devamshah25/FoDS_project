@@ -89,6 +89,7 @@ python evaluate.py
 - **IITB English-Hindi Corpus**: A large parallel corpus used for training
     - IITB.en-hi.en: English sentences (126.1 MB)
     - IITB.en-hi.hi: Hindi translations (311.4 MB)
+    - here is the link to the corpus- https://drive.google.com/file/d/18L5woKFfd3a83zJMs_OPxHRoF-QVlQY4/view?usp=drive_link 
 - **Test Set**:
     - hin.txt: Contains parallel English-Hindi sentences
     - 50 randomly selected sentences are used for evaluation
